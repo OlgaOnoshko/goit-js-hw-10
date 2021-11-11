@@ -4,5 +4,5 @@ export default function fetchCountries (countryNameInput) {
         .then(data => {
             return data;
         });
-}
+};
 
